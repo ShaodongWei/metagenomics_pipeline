@@ -1,0 +1,1 @@
+The metagenomics.sh requires databases and softwares to run. Please use Docker for a complete usage by 'docker pull shaodongwei/metagenomics:v2'
